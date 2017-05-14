@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nbouma.blockcerts">
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:supportsRtl="true">
+        <permission android:name="android.permission.INTERNET"></permission>
+
+    </application>
+
+</manifest>
