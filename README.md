@@ -1,6 +1,6 @@
 # android-blockcerts-verifier
 
-Android library for verifying blockchain certificates according to the blockCerts open standard(http://www.blockcerts.org/).
+Android library for verifying blockchain certificates according to the BlockCerts open standard(http://www.blockcerts.org/).
 
 
 # Include the project into your application
