@@ -35,7 +35,6 @@ final Verifier verifier = new Verifier() {
             }
         };
         // If you want to use the blockchain test network
-        verifier.setTestNet();
-        
-        verifier.verify(certificateJsonObject)
+verifier.setTestNet();
+verifier.verify(certificateJsonObject)
         ```
